@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ashu Sharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development using Node.js
-- 💞️ I’m looking to collaborate on Projects based on react js 
 
 
 <!---
